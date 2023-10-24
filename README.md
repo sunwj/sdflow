@@ -1,4 +1,4 @@
-# CAR-pytorch
+# SDFlow
 
 Pytorch implementation of paper **"Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling"**
 
