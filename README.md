@@ -54,12 +54,13 @@ You can download the pre-trained models from [here](https://mega.nz/folder/f7QWB
 If you find our work useful in your research or publication, please cite our work:
 
 ```
-@article{sun2023sdflow,
-  title={Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling},
-  author={Wanjie Sun and Zhenzhong Chen},
-  journal={arXiv preprint arXiv:2310.04964},
-  year={2023}
-}
+@ARTICLE{sun2023sdflow,
+  author={Sun, Wanjie and Chen, Zhenzhong},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Learning Many-to-Many Mapping for Unpaired Real-World Image Super-resolution and Downscaling}, 
+  year={2024},
+  pages={1-16},
+  doi={10.1109/TPAMI.2024.3428546}}
 ```
 
 ## Full code include training scripts will be available later.
